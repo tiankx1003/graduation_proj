@@ -1,0 +1,7 @@
+"STARTUP.obj",
+"lcd.obj",
+"main.obj",
+"XPT2046.obj",
+"temp.obj" 
+TO "温度氨气预警" 
+RAMSIZE(256) 
